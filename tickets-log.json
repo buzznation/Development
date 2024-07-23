@@ -1,0 +1,35 @@
+{
+  "tickets": [
+    {
+      "ticketNumber": 1,
+      "userName": ".will3m",
+      "userId": "557990526671126530",
+      "openedAt": "2024-07-22T21:12:53.972Z"
+    },
+    {
+      "ticketNumber": 2,
+      "userName": ".will3m",
+      "userId": "557990526671126530",
+      "openedAt": "2024-07-22T21:17:48.300Z"
+    },
+    {
+      "ticketNumber": 3,
+      "userName": ".will3m",
+      "userId": "557990526671126530",
+      "openedAt": "2024-07-22T21:20:49.938Z"
+    },
+    {
+      "ticketNumber": 4,
+      "userName": ".will3m",
+      "userId": "557990526671126530",
+      "openedAt": "2024-07-22T21:39:25.201Z"
+    },
+    {
+      "ticketNumber": 5,
+      "userName": ".will3m",
+      "userId": "557990526671126530",
+      "openedAt": "2024-07-22T21:43:12.563Z"
+    }
+  ],
+  "nextTicketNumber": 6
+}
